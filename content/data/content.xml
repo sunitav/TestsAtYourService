@@ -1,0 +1,1967 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-113751.31884685843" y="-62634.8303285674" width="227502.63769371685" height="125269.6606571348"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="108_13415665" type="button" x="-13620.104069276713" y="-39909.6495923352" r="0" s="10.999861883021104" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="100_13415665"/>
+      </layout>
+    </object>
+    <object id="152_13415665" type="text" x="-13658.66473710598" y="-42067.37729782717" r="0" s="24.24999564797425" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Best Practices]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="108_13415665"/>
+      </layout>
+    </object>
+    <object id="7_54705017" type="image" x="-3911.749999999999" y="6219.900000000001" r="-5.793986910954038" s="4.153569073925368">
+      <source w="599" h="470">899780649<mask x="0" y="58" w="599" h="352"/>
+      <url>899780649.jpg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/f/d/484130eff122fdb252ddb55c00014de02166a.jpg</sourceUrl>
+    <resource><id>899780649</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/f/d/484130eff122fdb252ddb55c00014de02166a.jpg</url></resource></object>
+    <object id="60_13415665" type="button" x="-34730.30497045343" y="-23817.828095063487" r="18.07738880965252" s="21.362308888973825" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1052.7272727272723</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="63_13415665" type="button" x="-42084.55" y="-23845.15" r="18.077388809652515" s="7.014617689962754" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.0000000000035</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="60_13415665"/>
+      </layout>
+    </object>
+    <object id="0_54705017" type="button" x="-42304.19428487355" y="-23149.042942070533" r="17.963164885628718" s="3.456999115097902" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1052.7272727272723</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2_54705017" type="text" x="-42104.51265088174" y="-23883.517703617137" r="17.963164885628753" s="5.634895788841179" class="body">
+      <height>32.68359375</height>
+      <width>244.17895183417588</width>
+      <p>
+        <text><![CDATA[WebServices' Jargons]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0_54705017"/>
+      </layout>
+    </object>
+    <object id="82_4096537" type="button" x="-2315.6950051985264" y="-3.2455783175860297e-12" r="0" s="209.1313199618277" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.6666666666663</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="37_4096537" type="shape" x="-18480.873423453053" y="-18950.36095445371" r="12.26108963553976" s="24.01073703973068" class="line3">
+      <geom type="line">
+        <sp>-370.59478692972624 -10.52621284128624</sp>
+        <ep>370.59478692972624 -10.52621284128624</ep>
+        <b>21.05242568257248</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_4096537" type="shape" x="14843.098117118783" y="-19212.391680360313" r="-13.187847237539076" s="24.010737039730646" class="line3">
+      <geom type="arrow">
+        <sp>-398.59677859846266 -12.442889710503382</sp>
+        <ep>398.5967785984626 -12.442889710503382</ep>
+        <b>24.885779421006763</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="39_4096537" type="shape" x="-1953.8211670556927" y="18451.41733403716" r="90" s="5.882630574734015" class="line3">
+      <geom type="line">
+        <sp>-131.88133549264268 0</sp>
+        <ep>131.88133549264268 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="40_4096537" type="shape" x="-1941.4965253974196" y="10371.698746816972" r="90" s="8.235682804627617" class="line3">
+      <geom type="line">
+        <sp>-128.31878678062827 0</sp>
+        <ep>128.31878678062827 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="41_4096537" type="shape" x="-1930.5412883678491" y="-2030.9344219745185" r="90" s="24.010737039730653" class="line3">
+      <geom type="line">
+        <sp>-71.64088333194566 0</sp>
+        <ep>71.64088333194566 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="48_4096537" type="shape" x="-1970.198015412229" y="23466.06733975923" r="90" s="5.882630574734015" class="line3">
+      <geom type="line">
+        <sp>-118.0549091731889 0</sp>
+        <ep>118.0549091731889 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="83_4096537" type="text" x="-1959.9557348208375" y="44293.99607801233" r="0" s="272.74923474271594" class="head head-background">
+      <height>32.68359375</height>
+      <width>413.4574079110419</width>
+      <p align="center">
+        <text><![CDATA[Tests At Your Service]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="53_4096537" type="shape" x="-2079.9899259419717" y="-27182.03883333052" r="-90" s="39.379938251624736" class="line3">
+      <geom type="arrow">
+        <sp>-139.85867172344294 0</sp>
+        <ep>139.85867172344294 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="145_32911991" type="text" x="113751.31884685844" y="-36807.906888061094" r="0" s="272.74923474271594" class="body">
+      <height>32.68359375</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="18_13415665" type="button" x="-1939.900088636782" y="28361.3467809626" r="0" s="13.165662722556336" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1063.564875491481</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19_13415665" type="text" x="-1940.338532668267" y="25991.516236471245" r="0" s="18.655427544188193" class="strong strong-background">
+      <height>98.05078125</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[How Services Tests can make Functional testing ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Faster | Smarter | Reliable]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="18_13415665"/>
+      </layout>
+    </object>
+    <object id="21_13415665" type="button" x="-5752.434959015066" y="30267.71147352551" r="0" s="4.336881771573528" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.0000000000035</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="18_13415665"/>
+      </layout>
+    </object>
+    <object id="22_13415665" type="button" x="-1636.306847593409" y="30267.804631617193" r="0" s="4.336881771573529" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="18_13415665"/>
+      </layout>
+    </object>
+    <object id="23_13415665" type="button" x="2470.1333532525896" y="30272.817283880337" r="0" s="4.336881771573529" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="18_13415665"/>
+      </layout>
+    </object>
+    <object id="30_13415665" type="button" x="-1942.625709095452" y="21122.66336579796" r="0" s="4.437630174127847" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="31_13415665" type="text" x="-1947.677214828684" y="20092.566827468272" r="0" s="7.826462808666737" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Identity]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="30_13415665"/>
+      </layout>
+    </object>
+    <object id="32_13415665" type="text" x="-1850.8274321880451" y="20683.109165764363" r="0" s="4.703101893453588" class="body">
+      <height>32.68359375</height>
+      <width>434.4737784827681</width>
+      <p>
+        <text><![CDATA[Request/Response as Domain Objects]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="30_13415665"/>
+      </layout>
+    </object>
+    <object id="33_13415665" type="button" x="-2631.15" y="21670.25" r="-2.527780095115294" s="2.3039682356413627" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.0000000000015</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="30_13415665"/>
+      </layout>
+    </object>
+    <object id="37_13415665" type="button" x="-1235.8229699424758" y="21668.199255574065" r="3.185692549470055" s="1.7092913270796426" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="30_13415665"/>
+      </layout>
+    </object>
+    <object id="40_13415665" type="button" x="-1942.3387066375517" y="14605.740326775229" r="0" s="7.9376102493132" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="41_13415665" type="text" x="-1964.599317211536" y="12763.201737575451" r="0" s="13.99923133931528" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Behavior]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="40_13415665"/>
+      </layout>
+    </object>
+    <object id="42_13415665" type="text" x="-1970.7597130262209" y="13824.98447406875" r="0" s="8.077485824427653" class="body">
+      <height>32.68359375</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Separate WS clients from protocol]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="40_13415665"/>
+      </layout>
+    </object>
+    <object id="43_13415665" type="button" x="-3144.775489719084" y="15474.26628023534" r="-4.99426894252135" s="3.009296472582053" class="circle">
+      <type>circle</type>
+      <size>
+        <w>798.25</w>
+        <h>798.25</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="40_13415665"/>
+      </layout>
+    </object>
+    <object id="47_13415665" type="button" x="-569.7" y="15522.45" r="11.228082430088277" s="2.9888749252324547" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="40_13415665"/>
+      </layout>
+    </object>
+    <object id="50_13415665" type="button" x="-1932.296468218031" y="4623.294462093132" r="0" s="12.345464695292751" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="51_13415665" type="text" x="-1982.05" y="1741.9" r="0" s="21.77317994111724" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[State]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="50_13415665"/>
+      </layout>
+    </object>
+    <object id="52_13415665" type="text" x="-1954.715815273302" y="3408.9750999066327" r="0" s="12.563014930196092" class="body">
+      <height>32.68359375</height>
+      <width>429.0251385177398</width>
+      <p>
+        <text><![CDATA[Fixtures for  state - end to end testing]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="50_13415665"/>
+      </layout>
+    </object>
+    <object id="53_13415665" type="button" x="-3930.306532527887" y="6058.73511578475" r="-5.79398691095404" s="5.692995329163258" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.0000000000006</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="50_13415665"/>
+      </layout>
+    </object>
+    <object id="57_13415665" type="button" x="90.3" y="6075.65" r="7.387512594455342" s="4.3297104512092774" class="circle">
+      <type>circle</type>
+      <size>
+        <w>808.22265625</w>
+        <h>808.22265625</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="50_13415665"/>
+      </layout>
+    </object>
+    <object id="61_13415665" type="text" x="-33196.62513923267" y="-28518.698342434105" r="18.07738880965254" s="33.62582585169791" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[What?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="60_13415665"/>
+      </layout>
+    </object>
+    <object id="67_13415665" type="button" x="-35417.305550193574" y="-21404.964241035297" r="17.963164885628732" s="7.246227731718868" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="60_13415665"/>
+      </layout>
+    </object>
+    <object id="75_13415665" type="button" x="35881.41755921507" y="-26789.576035010177" r="-20.2326641641061" s="22.797109350901422" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>987.7</w>
+        <h>562.9378238341969</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="76_13415665" type="text" x="34238.86551408307" y="-31414.55231898264" r="-20.23266416410612" s="33.666331926789574" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Why?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="75_13415665"/>
+      </layout>
+    </object>
+    <object id="78_13415665" type="button" x="29909.327382167052" y="-22956.54084003363" r="-20.232664164106097" s="10.33020019742404" class="circle">
+      <type>circle</type>
+      <size>
+        <w>615.6260246435704</w>
+        <h>615.6260246435704</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="75_13415665"/>
+      </layout>
+    </object>
+    <object id="90_13415665" type="button" x="-2140.9746106675498" y="-12781.926005347716" r="0" s="22.65428387445614" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="100_13415665" type="button" x="-2134.32657650567" y="-44965.3952852611" r="0" s="34.11244900979375" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1052.7272727272727</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="104_13415665" type="button" x="-2142.55124013017" y="-40006.08831292526" r="0" s="14.666482510694808" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.0000000000031</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="100_13415665"/>
+      </layout>
+    </object>
+    <object id="102_13415665" type="text" x="-2135.4625627838777" y="-52861.39798734882" r="0" s="53.69547251375556" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Conclusion]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="100_13415665"/>
+      </layout>
+    </object>
+    <object id="113_13415665" type="button" x="9129.768929209697" y="-40006.196586290105" r="0" s="10.999861883021104" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="100_13415665"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="-5767.638155126699" y="29416.99079598577" r="0" s="9.560971328992007" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[What?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="21_13415665"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="-5765.254881019954" y="30322.544076256207" r="0" s="5.516632199712582" class="body">
+      <height>98.05078125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[WebServices in 3 mins]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Show it to Me!]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Then & Now]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="21_13415665"/>
+      </layout>
+    </object>
+    <object id="116_13415665" type="text" x="-1651.510043705042" y="29417.083954077458" r="0" s="9.560971328992013" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Why?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="22_13415665"/>
+      </layout>
+    </object>
+    <object id="117_13415665" type="text" x="-1649.35" y="30317.2" r="0" s="5.516632199712582" class="body">
+      <height>98.05078125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Faster]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Reliable]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Smarter]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="22_13415665"/>
+      </layout>
+    </object>
+    <object id="120_13415665" type="text" x="2454.930157140957" y="29422.096606340587" r="0" s="9.560971328992013" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[How?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="23_13415665"/>
+      </layout>
+    </object>
+    <object id="121_13415665" type="text" x="2457.3134312477027" y="30327.64988661103" r="0" s="5.516632199712582" class="body">
+      <height>98.05078125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Design Concepts]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Reusability]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[DRY]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="23_13415665"/>
+      </layout>
+    </object>
+    <object id="122_13415665" type="text" x="-41759.41335563421" y="-24920.48387432654" r="18.077388809652533" s="15.464234938837306" class="strong strong-background">
+      <height>65.3671875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Webservices in 3 mins]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="63_13415665"/>
+      </layout>
+    </object>
+    <object id="128_13415665" type="text" x="29264.18041206819" y="-24705.180390305" r="-20.2326641641061" s="17.080258313304874" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Demo!]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="78_13415665"/>
+      </layout>
+    </object>
+    <object id="136_13415665" type="text" x="-1222.5331175643614" y="21342.678155534813" r="3.185692549470062" s="3.7682570639166184" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Why?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="37_13415665"/>
+      </layout>
+    </object>
+    <object id="137_13415665" type="text" x="-1214.8022475169528" y="21655.409545491548" r="3.185692549470066" s="2.1742653063460726" class="body">
+      <height>65.3671875</height>
+      <width>414.2237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Page Object Pattern for Domain]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Extensibility - New data formats]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="37_13415665"/>
+      </layout>
+    </object>
+    <object id="140_13415665" type="text" x="-461.4789575008733" y="14974.153110817337" r="11.228082430088278" s="6.589192182594916" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Why?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="47_13415665"/>
+      </layout>
+    </object>
+    <object id="141_13415665" type="text" x="-622.5" y="15444.15" r="11.22808243008828" s="3.801930631710177" class="body">
+      <height>65.3671875</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Reusability]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Language agnostic]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="47_13415665"/>
+      </layout>
+    </object>
+    <object id="142_13415665" type="text" x="-4029.750314456798" y="5226.973486160345" r="-5.79398691095404" s="9.412966732512508" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[How?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="53_13415665"/>
+      </layout>
+    </object>
+    <object id="144_13415665" type="text" x="264.90407497436513" y="5260.296040577691" r="7.387512594455344" s="9.545161631609206" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Why?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="57_13415665"/>
+      </layout>
+    </object>
+    <object id="145_13415665" type="text" x="41.59234132731252" y="6099.65380546124" r="7.387512594455348" s="5.507510084119031" class="body">
+      <height>130.734375</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Readability]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Ease of writing End to End tests]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[DRY]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="57_13415665"/>
+      </layout>
+    </object>
+    <object id="154_13415665" type="text" x="9091.208261380429" y="-42163.92429178207" r="0" s="24.249995647974245" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Thank you]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="113_13415665"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="text" x="89578.29732343733" y="57732.2548638132" r="0" s="59.13924977954193" class="body">
+      <height>32.68359375</height>
+      <width>-461.8828125</width>
+      <p>
+        <text><![CDATA[Based on Jim Harvey's speech structures]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_54705017" type="button" x="-43541.78485799408" y="-23396.947088426252" r="17.963164885628736" s="1.3311140224938554" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="0_54705017"/>
+      </layout>
+    </object>
+    <object id="4_54705017" type="button" x="-42526.64312702233" y="-22773.18122793477" r="17.963164885628743" s="1.428808651755982" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="0_54705017"/>
+      </layout>
+    </object>
+    <object id="12_54705017" type="button" x="-28681.725077115" y="-19224.023428860164" r="17.963164885628732" s="7.246227731718868" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="60_13415665"/>
+      </layout>
+    </object>
+    <object id="15_54705017" type="button" x="-41353.71016658045" y="-22621.51170930701" r="17.96316488562875" s="1.376686574320939" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.0000000000035</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="0_54705017"/>
+      </layout>
+    </object>
+    <object id="22_4" type="image" x="-41347.746244558344" y="-22608.223184123693" r="17.96316488562869" s="2.448279768611097">
+      <source w="408" h="123">889995783<mask x="3" y="1" w="401" h="114"/>
+      <url>889995783.jpeg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/f/a6cd6a9eb522b743d441faff4c1ea71846d13.jpeg</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="15_54705017"/>
+      </layout>
+    <resource><id>889995783</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/f/a6cd6a9eb522b743d441faff4c1ea71846d13.jpeg</url></resource></object>
+    <object id="23_4" type="text" x="-41256.84410253648" y="-22925.31962582256" r="17.963164885628714" s="2.5288597878923658" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>243.76378808954487</width>
+      <p align="center">
+        <text><![CDATA[{ JSON } v/s < XML > ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="15_54705017"/>
+      </layout>
+    </object>
+    <object id="10_54559847" type="text" x="-43448.14428487354" y="-23672.29294207053" r="17.963164885628753" s="2.5288597878923658" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>261.15962579809775</width>
+      <p align="center">
+        <text><![CDATA[API v/s Webservices]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_54705017"/>
+      </layout>
+    </object>
+    <object id="18_54559847" type="button" x="-43568.822055021235" y="-23296.580549366652" r="17.96316488562873" s="0.716691269428094" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1062.2876557191394</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_4" type="image" x="-43565.177936395536" y="-23289.931631172374" r="17.963164885628743" s="0.8427389087463353">
+      <source w="715" h="506">897071937<mask x="20" y="0" w="674" h="506"/>
+      <url>897071937.jpg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/1/c/0/856a7737d07fe1d3fc09c1564ad4adaa41286.jpg</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="18_54559847"/>
+      </layout>
+    <resource><id>897071937</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/c/0/856a7737d07fe1d3fc09c1564ad4adaa41286.jpg</url></resource></object>
+    <object id="34_54559847" type="image" x="-36505.1" y="-21944.1" r="12.011725443640787" s="21.196567070716412">
+      <source w="99" h="87" bt="-43.6" bl="-49.65">606659745<url>606659745.swf</url></source>
+      <sourceUrl>bub1.swf</sourceUrl>
+    <resource><id>606659745</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/a/e/04e16b9f7494851885507fc34a6c4cf92f748.swf</url></resource></object>
+    <object id="35_54559847" type="image" x="-34111.037442971094" y="-21111.671292035975" r="26.62505168905484" s="10.004775382276492">
+      <source w="191" h="190" bt="-96.25" bl="-97.1">606658735<url>606658735.swf</url></source>
+      <sourceUrl>bub sq.swf</sourceUrl>
+    <resource><id>606658735</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/8/98cd16641c66027c1b9f8a62374abf8ccafd1.swf</url></resource></object>
+    <object id="41_54559847" type="button" x="42826.7689317156" y="-27754.11890863656" r="-20.2326641641061" s="10.516826733717982" class="circle">
+      <type>circle</type>
+      <size>
+        <w>595.7254066350558</w>
+        <h>595.7254066350558</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="75_13415665"/>
+      </layout>
+    </object>
+    <object id="42_54559847" type="text" x="42220.758397450954" y="-29460.653267864967" r="-20.232664164106108" s="17.38883214412113" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Reliable]]></text>
+      </p>
+      <meta>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="41_54559847"/>
+      </layout>
+    </object>
+    <object id="43_54559847" type="text" x="42856.54953720829" y="-28106.4657033907" r="-20.232664164106104" s="14.539296929446722" class="body">
+      <height>98.05078125</height>
+      <width>321.08203125</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Not Flaky]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[No impact due to UX changes]]></text>
+      </p>
+    </object>
+    <object id="0_54559847" type="button" x="36382.49676763272" y="-25332.12259256085" r="-20.232664164106097" s="10.415517147477326" class="circle">
+      <type>circle</type>
+      <size>
+        <w>615.6260246435704</w>
+        <h>615.6260246435704</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>strategy-recommendaton-quick-b</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="75_13415665"/>
+      </layout>
+    </object>
+    <object id="1_54705017" type="text" x="29844.219317810315" y="-23436.502530070007" r="-20.232664164106104" s="13.090216825005134" class="body">
+      <height>32.68359375</height>
+      <width>445.15732450990424</width>
+      <p>
+        <text color="3247103"><![CDATA[Given]]></text>
+        <text><![CDATA[ I am logged into google account]]></text>
+      </p>
+    </object>
+    <object id="5_54705017" type="text" x="28657.824092779145" y="-22328.962012725413" r="-20.2326641641061" s="13.090216825005134" class="body">
+      <height>32.68359375</height>
+      <width>-216.5625</width>
+      <p>
+        <text color="3247103"><![CDATA[When]]></text>
+        <text><![CDATA[ I visit Picasa]]></text>
+      </p>
+    </object>
+    <object id="6_54705017" type="text" x="29908.9" y="-22121.300000000003" r="-20.2326641641061" s="13.090216825005134" class="body">
+      <height>32.68359375</height>
+      <width>379.75234375</width>
+      <p>
+        <text color="3247103"><![CDATA[Then]]></text>
+        <text><![CDATA[ I should see all my albums]]></text>
+      </p>
+    </object>
+    <object id="18_54705017" type="image" x="-42535.604580521845" y="-22731.697290413907" r="17.963164885628746" s="1.215025825915795">
+      <source w="600" h="562">897002775<mask x="0" y="55" w="600" h="450"/>
+      <url>897002775.jpg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/4/1/6/6667362ec41e257d13e645c28b2272e914cab.jpg</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="image" parent-id="4_54705017"/>
+      </layout>
+    <resource><id>897002775</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/1/6/6667362ec41e257d13e645c28b2272e914cab.jpg</url></resource></object>
+    <object id="19_54705017" type="text" x="-42421.400252191605" y="-23083.819519387456" r="17.963164885628743" s="2.2989634435385145" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[SOAP v/s REST]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="4_54705017"/>
+      </layout>
+    </object>
+    <object id="5_54559847" type="image" x="-34276.1215074194" y="-21431.236040401844" r="17.96316488562874" s="1.565974789339175">
+      <source w="434" h="309" bt="-163.2" bl="-216.1">606694243<url>606694243.swf</url></source>
+      <sourceUrl>money.swf</sourceUrl>
+    <resource><id>606694243</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/a/d/25b0b440d2934d4fd991a0eb632e1d3db8cdf.swf</url></resource></object>
+    <object id="11_54559847" type="image" x="-34120.01921740745" y="-21117.344779772793" r="17.96316488562874" s="1.565974789339175">
+      <source w="434" h="309" bt="-163.2" bl="-216.1">606694243<url>606694243.swf</url></source>
+      <sourceUrl>money.swf</sourceUrl>
+    <resource><id>606694243</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/a/d/25b0b440d2934d4fd991a0eb632e1d3db8cdf.swf</url></resource></object>
+    <object id="13_54559847" type="image" x="-35906.32069700127" y="-20210.908038011683" r="17.963164885628736" s="6.290746865004448">
+      <source w="182" h="232">897020825<mask x="0" y="8" w="182" h="224"/>
+      <url>897020825.jpg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/6/1/a/242106dbea301e88c2cf9bb8b71e49461ed5c.jpg</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="67_13415665"/>
+      </layout>
+    <resource><id>897020825</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/1/a/242106dbea301e88c2cf9bb8b71e49461ed5c.jpg</url></resource></object>
+    <object id="14_54559847" type="text" x="-34909.15670317576" y="-22932.58518865209" r="17.96316488562875" s="15.4642349388373" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>226.5078079062704</width>
+      <p align="center">
+        <text><![CDATA[Show it to me!]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="67_13415665"/>
+      </layout>
+    </object>
+    <object id="28_54705017" type="persistentgroup" x="-34111.037442971094" y="-21111.671292035975" r="17.963164885628736" s="10.418162111390371">
+      <m o="35_54559847"/>
+      <m o="5_54559847"/>
+      <m o="11_54559847"/>
+    </object>
+    <object id="7_54559847" type="image" x="-36371.07686946906" y="-22226.35401691428" r="17.963164885628743" s="4.164584559339017">
+      <source w="258" h="195">897052321<url>897052321.jpg</url></source>
+      <sourceUrl>cccard.jpg</sourceUrl>
+    <resource><id>897052321</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/3/9/2330e7928efe37843a75d86ce987ab74d3001.jpg</url></resource></object>
+    <object id="3_54559847" type="persistentgroup" x="-36505.1" y="-21944.1" r="17.96316488562874" s="8.836863087462037">
+      <m o="34_54559847"/>
+      <m o="7_54559847"/>
+    </object>
+    <object id="20_54559847" type="text" x="-43529.53713902072" y="-23407.7708575506" r="17.96316488562876" s="0.5653312993182029" class="body body-background">
+      <height>32.68359375</height>
+      <width>988.0236674298816</width>
+      <p>
+        <text color="16711680"><![CDATA[  Published interface that defines how component A communicates with component B]]></text>
+      </p>
+    </object>
+    <object id="23_54559847" type="text" x="-43605.39222384497" y="-23178.15747961622" r="17.963164885628753" s="0.6542039509406615" class="body body-background">
+      <height>32.68359375</height>
+      <width>-326.16796875</width>
+      <p>
+        <text color="16711680"><![CDATA[WebServices: API over HTTP]]></text>
+      </p>
+    </object>
+    <object id="4_54559847" type="image" x="-28777.67774964783" y="-18947.283418971092" r="17.963164885628707" s="7.502702685410687">
+      <source w="540" h="373">907097249<mask x="22" y="0" w="495" h="373"/>
+      <url>907097249.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/6/78a3e7c578dc9fa7d57b80a21bdc5bcb72609.png</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="12_54705017"/>
+      </layout>
+    <resource><id>907097249</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/6/78a3e7c578dc9fa7d57b80a21bdc5bcb72609.png</url></resource></object>
+    <object id="6_54559847" type="text" x="-28170.98256146363" y="-20820.583537266168" r="17.963164885628725" s="14.107671655226172" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>246.0078079062704</width>
+      <p align="center">
+        <text><![CDATA[Then & Now]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="12_54705017"/>
+      </layout>
+    </object>
+    <object id="8_54559847" type="image" x="-2137.2" y="-12069.85" r="0" s="25.74370645939648">
+      <source w="365" h="350">897309009<mask x="1" y="0" w="364" h="349"/>
+      <url>897309009.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/0/5393fe1573cc90e718f041854be73b29295be.png</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="90_13415665"/>
+      </layout>
+    <resource><id>897309009</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/0/5393fe1573cc90e718f041854be73b29295be.png</url></resource></object>
+    <object id="9_54559847" type="text" x="-2139.666807652332" y="-18369.05631471215" r="0" s="36.45090642677141" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[How?]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="90_13415665"/>
+      </layout>
+    </object>
+    <object id="15_54559847" type="text" x="-2646.6285495976813" y="21273.983185687048" r="-2.527780095115292" s="2.7803261526502245" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[How?]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="33_13415665"/>
+      </layout>
+    </object>
+    <object id="26_54559847" type="button" x="-2602.2" y="21859.25" r="-2.5277800951152933" s="1.3063429653152512" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>966.0975937626024</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16_54559847" type="image" x="-2986.25" y="21823.35" r="-2.5277800951152924" s="1.266411955170019">
+      <source w="349" h="210">897596049<url>897596049.jpg</url></source>
+      <sourceUrl>crumpled.jpg</sourceUrl>
+    <resource><id>897596049</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/f/3/12f98d83b86b7ee906b43dbee1d161090f749.jpg</url></resource></object>
+    <object id="19_54559847" type="image" x="-2327.3500000000004" y="21798.250000000007" r="-2.5277800951152933" s="1.1032049556454668">
+      <source w="446" h="203">897597037<url>897597037.jpg</url></source>
+      <sourceUrl>xmlserialize.jpg</sourceUrl>
+    <resource><id>897597037</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/1/5/3558a15fddec31b512f22ab7c864eee31f8ba.jpg</url></resource></object>
+    <object id="21_54559847" type="shape" x="-2632.742937047471" y="22018.684837767723" r="-6.384581165010762" s="2.0000000000000004" class="line3">
+      <geom type="arrow">
+        <sp>89.28781570227933 -41.24462267483006</sp>
+        <ep>-89.28781570227932 -41.24462267483009</ep>
+        <b>-82.48924534966015</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="22_54559847" type="shape" x="-2665.189182500086" y="21619.00447929923" r="1.7720826407709733" s="2.0000000000000004" class="line3">
+      <geom type="arrow">
+        <sp>-91.34463370272476 36.62722698079317</sp>
+        <ep>91.34463370272476 36.62722698079317</ep>
+        <b>-73.25445396158634</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="24_54559847" type="text" x="-2631.3000000000006" y="22163.85" r="-2.5277800951152907" s="2.5056039876101917" class="body">
+      <height>32.68359375</height>
+      <width>-126.69140625</width>
+      <p>
+        <text><![CDATA[Deserialize]]></text>
+      </p>
+    </object>
+    <object id="25_54559847" type="text" x="-2677.638043707121" y="21497.558253955835" r="-2.527780095115294" s="2.5056039876101917" class="body">
+      <height>32.68359375</height>
+      <width>-98.625</width>
+      <p>
+        <text><![CDATA[Serialize]]></text>
+      </p>
+    </object>
+    <object id="17_54559847" type="image" x="-3128.85" y="15611.25" r="-4.994268942521361" s="3.8750593382694287">
+      <source w="395" h="389">899703365<mask x="0" y="46" w="395" h="296"/>
+      <url>899703365.jpg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/b/82b718360a85727f24106fae6e94fa963544e.jpg</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="43_13415665"/>
+      </layout>
+    <resource><id>899703365</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/b/82b718360a85727f24106fae6e94fa963544e.jpg</url></resource></object>
+    <object id="27_54559847" type="text" x="-3198.496435560429" y="14815.383558475369" r="-4.994268942521353" s="4.831085311489723" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[How?]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="43_13415665"/>
+      </layout>
+    </object>
+    <object id="28_54559847" type="shape" x="-3320.16032650534" y="15288.519734887614" r="3.5455890457290073" s="1.457725947521866" class="line2">
+      <geom type="arrow">
+        <sp>71.72543655096332 -38.95751181693909</sp>
+        <ep>-71.72543655096331 -38.957511816939096</ep>
+        <b>-77.91502363387818</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="29_54559847" type="text" x="-3428.2037481944135" y="15165.20914599914" r="-4.994268942521353" s="2.7270217122016795" class="body body-background">
+      <height>32.68359375</height>
+      <width>-207.55078125</width>
+      <p>
+        <text color="0"><![CDATA[WebService Client]]></text>
+      </p>
+    </object>
+    <object id="30_54559847" type="shape" x="-3039.7623174847795" y="15959.086469828717" r="28.538874723936487" s="1.457725947521866" class="line2">
+      <geom type="arrow">
+        <sp>-94.054847697876 -43.3458322076237</sp>
+        <ep>94.054847697876 -43.3458322076237</ep>
+        <b>86.6916644152474</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="31_54559847" type="text" x="-2661.565246363689" y="15969.064815466649" r="-4.9942689425213525" s="2.7270217122016795" class="body body-background">
+      <height>32.68359375</height>
+      <width>-127.91015625</width>
+      <p>
+        <text color="0"><![CDATA[REST client]]></text>
+      </p>
+    </object>
+    <object id="32_54559847" type="image" x="-2141.88369959021" y="-39670.368687979615" r="0" s="9.698584764659472">
+      <source w="612" h="434">899739813<mask x="16" y="0" w="578" h="434"/>
+      <url>899739813.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/0/b4e2e82f183264c9704e07e19ff736a859294.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="image" parent-id="104_13415665"/>
+      </layout>
+    <resource><id>899739813</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/0/b4e2e82f183264c9704e07e19ff736a859294.png</url></resource></object>
+    <object id="33_54559847" type="text" x="-2184.8696896919414" y="-42370.30468325759" r="0" s="21.415617262375083" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>247.8078079062704</width>
+      <p align="center">
+        <text><![CDATA[Push Down]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="104_13415665"/>
+      </layout>
+    </object>
+    <object id="12_54559847" type="image" x="36539.83985448361" y="-24990.735474884223" r="-20.232664164106094" s="4.356399169174269">
+      <source w="998" h="704">900375107<mask x="30" y="0" w="937" h="704"/>
+      <url>900375107.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/2/d/0/b4b68fadd483f4a97b529b462afb1db25eb97.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="image" parent-id="0_54559847"/>
+      </layout>
+    <resource><id>900375107</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/d/0/b4b68fadd483f4a97b529b462afb1db25eb97.png</url></resource></object>
+    <object id="36_54559847" type="text" x="35749.60773956421" y="-27056.893640922568" r="-20.23266416410609" s="17.08025831330488" class="strong strong-background">
+      <height>32.68359375</height>
+      <width>223.6443326914001</width>
+      <p align="center">
+        <text><![CDATA[Faster]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="0_54559847"/>
+      </layout>
+    </object>
+    <object id="37_54559847" type="shape" x="35263.95334955009" y="-25302.75814354208" r="-20.23266327435994" s="4" class="line3">
+      <geom type="arrow">
+        <sp>-71.27289016679941 0</sp>
+        <ep>71.27289016679941 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="38_54559847" type="shape" x="35296.19436324078" y="-25309.633022209666" r="-19.394380258849736" s="4" class="line2">
+      <geom type="arrow">
+        <sp>79.48852293085592 0</sp>
+        <ep>-79.48852293085592 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="39_54559847" type="text" x="33997.22011043" y="-25569.112520297764" r="-20.232664164106087" s="6.010518407212625" class="body body-background">
+      <height>32.68359375</height>
+      <width>-157.44140625</width>
+      <p>
+        <text color="16711680"><![CDATA[Services Tests]]></text>
+      </p>
+    </object>
+    <object id="40_54559847" type="text" x="34432.157057988334" y="-24099.490833213513" r="-20.232664164106097" s="6.010518407212625" class="body body-background">
+      <height>32.68359375</height>
+      <width>-106.32421875</width>
+      <p>
+        <text color="16711680"><![CDATA[GUI Tests]]></text>
+      </p>
+    </object>
+    <object id="44_54559847" type="shape" x="36325.5149495535" y="-23568.571014317928" r="-19.394380258849743" s="4" class="line2">
+      <geom type="arrow">
+        <sp>79.48852293085592 0</sp>
+        <ep>-79.48852293085592 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="1_54559847" type="text" x="-12899.756073293249" y="-39411.2415651657" r="0" s="13.688490347199018" class="body">
+      <height>163.41796875</height>
+      <width>440.01164127438415</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Communication Objects with built in marshalling]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Decouple business layer from implementation ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Build incremental State(s)]]></text>
+      </p>
+    </object>
+    <object id="8_54705017" type="text" x="-33829.45107704363" y="-26102.180740011867" r="18.077388809652515" s="20.582896703592457" class="body">
+      <height>32.68359375</height>
+      <width>-545.0390625</width>
+      <p>
+        <text><![CDATA[What are webservices and how can I test them?]]></text>
+      </p>
+    </object>
+    <object id="2_54559847" type="image" x="9092.010187111957" y="-39901.62084388764" r="0" s="7.852665360395868">
+      <source w="194" h="290" bt="-144.15" bl="-94.8">606713387<url>606713387.swf</url></source>
+      <sourceUrl>question.swf</sourceUrl>
+    <resource><id>606713387</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/3/6/8112540b52220807bfd76157275680fa82151.swf</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="120.73778353311651" fadescale="0.018221305175745377">
+      <object id="background709762985" type="image" x="23615.741639284024" y="3743.9564446661234" r="0" s="293.992789596094">
+        <source w="1698" h="1131">709762985<url>709762985.png</url></source>
+        <sourceUrl>blackboard.png</sourceUrl>
+      <resource><id>709762985</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/e/e/2604dbb8c6b4399351844565f457fb80d6ede.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="82_4096537"/>
+    </s>
+    <s>
+      <eagle o="18_13415665"/>
+    </s>
+    <s>
+      <eagle o="21_13415665"/>
+    </s>
+    <s>
+      <eagle o="22_13415665"/>
+    </s>
+    <s>
+      <eagle o="23_13415665"/>
+    </s>
+    <s>
+      <eagle o="82_4096537"/>
+    </s>
+    <s>
+      <eagle o="60_13415665"/>
+    </s>
+    <s>
+      <eagle o="63_13415665"/>
+    </s>
+    <s>
+      <eagle o="0_54705017"/>
+    </s>
+    <s>
+      <eagle o="3_54705017"/>
+    </s>
+    <s>
+      <eagle o="18_54559847"/>
+    </s>
+    <s>
+      <buildin o="20_54559847"/>
+    </s>
+    <s>
+      <buildin o="23_54559847"/>
+    </s>
+    <s>
+      <eagle o="4_54705017"/>
+    </s>
+    <s>
+      <buildin o="18_54705017"/>
+    </s>
+    <s>
+      <eagle o="18_54705017"/>
+    </s>
+    <s>
+      <eagle o="15_54705017"/>
+    </s>
+    <s>
+      <eagle o="22_4"/>
+    </s>
+    <s>
+      <eagle o="67_13415665"/>
+    </s>
+    <s>
+      <buildin o="3_54559847"/>
+    </s>
+    <s>
+      <buildin o="28_54705017"/>
+    </s>
+    <s>
+      <eagle o="12_54705017"/>
+    </s>
+    <s>
+      <eagle o="75_13415665"/>
+    </s>
+    <s>
+      <eagle o="78_13415665"/>
+    </s>
+    <s>
+      <buildin o="1_54705017"/>
+    </s>
+    <s>
+      <buildin o="5_54705017"/>
+    </s>
+    <s>
+      <buildin o="6_54705017"/>
+    </s>
+    <s>
+      <eagle o="0_54559847"/>
+    </s>
+    <s>
+      <eagle o="12_54559847"/>
+    </s>
+    <s>
+      <eagle o="41_54559847"/>
+    </s>
+    <s>
+      <eagle o="82_4096537"/>
+    </s>
+    <s>
+      <eagle o="90_13415665"/>
+    </s>
+    <s>
+      <eagle o="8_54559847"/>
+    </s>
+    <s>
+      <eagle o="30_13415665"/>
+    </s>
+    <s>
+      <eagle o="33_13415665"/>
+    </s>
+    <s>
+      <eagle o="26_54559847"/>
+    </s>
+    <s>
+      <eagle o="37_13415665"/>
+    </s>
+    <s>
+      <eagle o="40_13415665"/>
+    </s>
+    <s>
+      <eagle o="43_13415665"/>
+    </s>
+    <s>
+      <eagle o="47_13415665"/>
+    </s>
+    <s>
+      <eagle o="50_13415665"/>
+    </s>
+    <s>
+      <eagle o="53_13415665"/>
+    </s>
+    <s>
+      <eagle o="7_54705017"/>
+    </s>
+    <s>
+      <eagle o="57_13415665"/>
+    </s>
+    <s>
+      <eagle o="100_13415665"/>
+    </s>
+    <s>
+      <eagle o="108_13415665"/>
+    </s>
+    <s>
+      <eagle o="104_13415665"/>
+    </s>
+    <s>
+      <eagle o="32_54559847"/>
+    </s>
+    <s>
+      <eagle o="113_13415665"/>
+    </s>
+    <s>
+      <eagle o="82_4096537"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSerif-Regular.keg');
+	fontFamily: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSerif-Regular;
+}
+
+@font-face
+{
+	src: url('NotoSerif-Bold.keg');
+	fontFamily: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSerif-Bold;
+}
+
+@font-face
+{
+	src: url('OpenSans-XB.keg');
+	fontFamily: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: OpenSans-XB;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #000;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+.line5
+{
+	color: #484f54;
+	gradEndColor: #484f54;
+	gradStartColor: #484f54;
+}
+
+.poly5
+{
+	borderColor: #484f54;
+	borderThickness: 2;
+	color: #000;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+.line1
+{
+	color: #6fcc00;
+	gradEndColor: #6fcc00;
+	gradStartColor: #6fcc00;
+}
+
+.poly1
+{
+	borderColor: #6fcc00;
+	borderThickness: 2;
+	color: #000;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZFrame.circle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	thickness: 6;
+}
+
+.line4
+{
+	color: #ffe633;
+	gradEndColor: #ffe633;
+	gradStartColor: #ffe633;
+}
+
+.poly4
+{
+	borderColor: #2e6fc5;
+	borderThickness: 2;
+	color: #000;
+	gradEndColor: #2e6fc5;
+	gradStartColor: #2e6fc5;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	thickness: 6;
+}
+
+.line2
+{
+	color: #fe3c2e;
+	gradEndColor: #fe3c2e;
+	gradStartColor: #fe3c2e;
+}
+
+.poly2
+{
+	borderColor: #6fcc00;
+	borderThickness: 2;
+	color: #000;
+	gradEndColor: #6fcc00;
+	gradStartColor: #6fcc00;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZArrow
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line3
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly3
+{
+	borderColor: #2e6fc5;
+	borderThickness: 2;
+	color: #000;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	color: #ff7900;
+}
+
+Grid
+{
+	color: #464646;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #bd5f0b;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #bd5f0b;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #f0f0f0;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+]]></style>
+  <hash>-27be9cab</hash>
+<sync><oid>03uflnb_kjti</oid><title>tests-at-your-service</title><hash>-27be9cab</hash></sync><config>Gc9J73lbUARbY7VAi66Z7eqN6tcf7H6xqBH07zP1BM6e3xSXhiNLN6dnF2u4MCXcuu45Dr/Ca8B8ndayf6kBCKZuIPcWL9s5hBn7EUU44mjjlpJs8vrKuo5QgckZaWZxmiZskVhfAAdyhd4tpYhrHX7XQCa4DFTqJipcp1PHZUYym0TbATx98WTaxM4zCNwO9NIx7dlqH7uHYeGxQLnbUn9mHItndS+tj1L7UZ0DwcDUqeCOiqq+Mf/DWKm0YkPhKbYzTi2XzDExVKd+eoTTDgQLgVHw2+8tt2m5FAvoVWzlZcM9vFavvjAL9EiYOPVRdU+fLHLV1iXTm1wK2e/wCA==</config></zuiprezi>

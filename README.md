@@ -23,5 +23,10 @@ curl --silent --header "Authorization: GoogleLogin auth=<AUTH>" "http://picasawe
 
 Code for comparing UI and Services layer automation
 ====================================================
-PicasaUIDemo/
-PicasaServicesDemo/
+1. PicasaUIDemo
+
+2. PicasaServicesDemo
+
+Presentation
+=============
+Launch prezi.exe for the readonly presentation
